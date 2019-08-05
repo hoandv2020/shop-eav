@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hoandv.shop.eav",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "shopEAV",
+    "packageName": "com.hoandv.shop.eav",
+    "packageFolder": "com/hoandv/shop/eav",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzQ0Y2U0YmIzZmFlNDNmZmVmYWU2NDkzM2Y2YWI1NDA3ODI2MmIwNGQ2NjI0ODdjN2RhOTIxZDc2NjRhMjFjNDJjZGI4N2UzNDgyODQxMWJhNmM1MWRiYTA2ZThmMjliYmRjYzE4YzQ4YmUwYjZiMTY3ZGRhOGQ5NWVmMWU5ODQ=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
